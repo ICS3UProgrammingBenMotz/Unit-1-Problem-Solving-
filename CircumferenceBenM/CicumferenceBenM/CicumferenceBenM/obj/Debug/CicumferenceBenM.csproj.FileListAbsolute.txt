@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\bin\Debug\CicumferenceBenM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\bin\Debug\CicumferenceBenM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\bin\Debug\CicumferenceBenM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.frmCircumference.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Motz, Benjamin (s244734)\Unit 1 (Problem Solving)\CircumferenceBenM\CicumferenceBenM\CicumferenceBenM\obj\Debug\CicumferenceBenM.pdb
