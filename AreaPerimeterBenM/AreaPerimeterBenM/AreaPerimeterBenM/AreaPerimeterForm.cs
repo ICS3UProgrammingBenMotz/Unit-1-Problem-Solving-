@@ -29,11 +29,8 @@ namespace AreaPerimeterBenM
             
             //This hides all labels
             this.lblArea.Hide();
-
             this.lblPerimeter.Hide();
-
             this.lblAreaA.Hide();
-
             this.lblPerimeterA.Hide();
         }
 
@@ -41,15 +38,19 @@ namespace AreaPerimeterBenM
         {
             //Declare local variables
             double length, width, area, perimeter;
+
             // Convert the string from each text box to a double
             length = double.Parse(txtLength.Text);
             width = double.Parse(txtWidth.Text);
+
             // Calculates area and perimeter
             area = length * width;
             perimeter = (2 * length) + (2 * width);
+            
             // Area and perimeter into their lables
             this.lblAreaA.Text = Convert.ToString(area) + " squared meters";
-            this.lblPerimeterA.Text = Convert.ToString(perimeter) + " squared meters";
+            this.lblPerimeterA.Text = Convert.ToString(perimeter) + " meters";
+
             //displays perimeter and area labels
             this.lblArea.Show();
             this.lblPerimeter.Show();
